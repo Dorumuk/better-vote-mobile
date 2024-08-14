@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "53aaa567-af38-4bec-9265-4e8317f645cc"
+      }
+    },
+    "owner": "dorumuk"
   }
 }
